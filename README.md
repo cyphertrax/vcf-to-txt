@@ -23,6 +23,9 @@ This script requires Python 3.x. You don't need to install any additional packag
 ## How to Use
 
 1. Download or clone this repository.
+   
+     ```bash
+   https://github.com/cyphertrax/vcf-to-txt.git
 2. Place your `.vcf` files in the same directory as the script.
 3. Run the script by executing the following command in your terminal:
 
