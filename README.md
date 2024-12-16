@@ -27,4 +27,4 @@ This script requires Python 3.x. You don't need to install any additional packag
 3. Run the script by executing the following command in your terminal:
 
    ```bash
-   python vcf_to_txt.py
+   python vcf-to-txt.py
