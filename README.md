@@ -35,19 +35,21 @@ This script requires Python 3.x. You don't need to install any additional packag
 
 Example: If you have contact.vcf, the script will generate contact_output.txt.
 
-##Input 
-BEGIN:VCARD
-VERSION:2.1
-FN:Aman
-TEL;CELL:+919202928394
-EMAIL:aman@example.com
-COUNTRYISO:IN
-END:VCARD
+## Features
+
+- BEGIN:VCARD
+- VERSION:2.1
+  - FN:Aman
+  - TEL;CELL:+919202928394
+  - EMAIL:aman@example.com
+  - COUNTRYISO:IN
+- END:VCARD
 
 
-##Output
-Name: Aman
-Phone Numbers: (CELL) +919202928394
-Email: aman@example.com
-Country: IN
-Last Modified: 2023-10-17 14:27
+## Output
+
+- Name: Aman
+- Phone Numbers: (CELL) +919202928394
+- Email: aman@example.com
+- Country: IN
+- Last Modified: 2023-10-17 14:27
